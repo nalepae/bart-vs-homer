@@ -1,0 +1,9 @@
+# Project Libraries Requirements
+
+matplotlib
+jupyter
+tensorflow
+sklearn
+scikit-image
+keras
+livelossplot
